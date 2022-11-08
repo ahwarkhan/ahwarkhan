@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahwarkhan04" target="blank"><img src="https://img.shields.io/twitter/follow/ahwarkhan04?logo=twitter&style=for-the-badge" alt="ahwarkhan04" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS and Web Development**
+- 🌱 I’m currently learning **Python and Data Science**
 
-- 💬 Ask me about **JavaScript, ReactJS and NodeJS**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **khanahwar4@gmail.com**
 
