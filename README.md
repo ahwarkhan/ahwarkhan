@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python, Deep Learning and Cryptography<br><br>💬 Ask me about Python and Cybersecurity<br><br>📫 How to reach me khanahwar4@gmail.com<br><br>⚡ Fun fact I think I am funny and could become a fitness model.<br><br>
+🌱 I’m currently learning Python, Deep Learning and Cybersecurity<br><br>💬 Ask me about Python and Cybersecurity<br><br>📫 How to reach me khanahwar4@gmail.com<br><br>⚡ Fun fact I think I am funny and could become a fitness model.<br><br>
 
 
 ## 🌐 Socials:
