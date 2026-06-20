@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Data Structure and Algorithms skills, and I'm learning AI to integrate it in cybersecurity.<br>I'm open to collaborating on projects in AI and cybersecurity.<br>You can ask me about Python, AI, and Cybersecurity.<br>Fun fact, I think I am funny and could become a lifestyle model.<br>
+I'm currently learning and doing research in AI Security  and AI-driven cybersecurity solutions.<br>I'm open to collaborating on projects in AI and cybersecurity.<br>You can ask me about Python, AI, and Cybersecurity.<br>Fun fact, I think I am funny and could become a lifestyle model.<br>
 
 
 ## 🌐 Socials:
